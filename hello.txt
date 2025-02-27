@@ -1,3 +1,7 @@
 gggg
 This is the change from step 4, on branch new-feature
+<<<<<<< HEAD
 This change was made locally
+=======
+This change is on GitHub
+>>>>>>> 2ddc2dcdcf5da097b3b3035d455676980b2a7dc2
